@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Menufy",
+    "slug": "Menufy",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Menufy"
+}
